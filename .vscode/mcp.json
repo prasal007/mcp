@@ -1,0 +1,16 @@
+{
+	"servers": {
+		"my-mcp-server-custom": {
+			"type": "stdio",
+			"command": "npm",
+			"args": [
+				"run",
+				"dev:mcp"
+			]
+		}
+	},
+	"inputs": []
+}
+
+//tool add a product.
+//tool add (description is not provided - AI( generate description) )
